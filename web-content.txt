@@ -1,0 +1,5 @@
+Reading a file in Java line 1
+How to Read a file in Java?
+Line 3
+Line 4
+Line 5
